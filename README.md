@@ -1,0 +1,2 @@
+# Make-Recommendations-for-A-Real-Estate-Company-About-Whether-It-Should-Enter-Short-Term-Rental-Marke
+This is the Capstone Project from the Coursera Specialization “Excel to MySQL: Analytic Techniques for Business”. I built a linear regression model with nightly rental price and occupancy rate for short-term rental properties using data from current short-term rentals managed by other companies and owners. I used Excel, MySQL and Tableau in this project, and built a dynamic dashboard. 
